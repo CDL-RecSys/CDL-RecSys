@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        CDL - RecSys
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to Christian Doppler Laboratory for Advancing the State-of-the-Art of Recommender Systems in Multi-Domain Settings
   
   - block: collection
     content:
